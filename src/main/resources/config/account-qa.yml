@@ -1,3 +1,7 @@
+
+build:
+  info: 10.10.10.snapshot
+
 account:
   name: account-service-qa
   version: 1.0.0
