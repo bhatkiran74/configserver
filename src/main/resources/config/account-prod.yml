@@ -1,0 +1,7 @@
+account:
+  name: account-service-prod
+  version: 1.0.0
+  description: Account Service for managing user accounts
+  contact:
+    name: Kiransing Bhat
+    email: bhatkiran74@gmail.com
